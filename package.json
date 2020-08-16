@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD # TypeScriptCourse ======= # TypeScript >>>>>>> 477b4e6... first commit",
+  "main": "app.ts",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":  "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzone85/TypeScriptCourse.git"
+  },
+  "author": "Mncedi Mini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzone85/TypeScriptCourse/issues"
+  },
+  "homepage": "https://github.com/tzone85/TypeScriptCourse#readme"
+}
